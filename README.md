@@ -1,10 +1,36 @@
-# Starship Terminal Configuration
+<p align="center">
+  <img
+    width="400"
+    src="./Assets/logo.svg"
+    alt="Starship – Cross-shell prompt"
+  />
+</p>
+
+<p align="center">
+    <a href="https://starship.rs/">
+        <img src="https://img.shields.io/badge/Starship-1.23.0-magenta" alt="Starship" />
+    </a>
+    <a href="https://github.com/chrisant996/clink">
+        <img src="https://img.shields.io/badge/Clink-1.8.3-blue" alt="Clink" />
+    </a>
+    <a href="https://www.nerdfonts.com/">
+        <img src="https://img.shields.io/badge/Nerd%20Fonts-3.4.0-yellow" alt="Nerd Fonts" />
+    </a>
+</p>
+
+<h1></h1>
+
+<img src="./Assets/demo.gif"
+  alt="Starship with iTerm2 and the Snazzy theme"
+  width="50%"
+  align="right"
+/>
 
 This repository contains a configuration for the Starship cross-shell prompt, which is a minimal, blazing-fast, and infinitely customizable prompt for any shell. The configuration is tailored for Windows users and includes settings for various modules to enhance the terminal experience.
 
 ## Prerequisites
 
-1. Install Starship:
+1. Install [Starship](https://starship.rs/):
 
    ```powershell
    winget install --id Starship.Starship
