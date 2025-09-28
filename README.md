@@ -20,12 +20,6 @@
 
 <h1></h1>
 
-<img src="https://raw.githubusercontent.com/starship/starship/master/media/demo.gif"
-  alt="Starship with iTerm2 and the Snazzy theme"
-  width="50%"
-  align="right"
-/>
-
 This repository contains a configuration for the Starship cross-shell prompt, which is a minimal, blazing-fast, and infinitely customizable prompt for any shell. The configuration is tailored for Windows users and includes settings for various modules to enhance the terminal experience.
 
 ## Prerequisites
