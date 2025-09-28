@@ -20,7 +20,7 @@
 
 <h1></h1>
 
-<img src="./Assets/demo.gif"
+<img src="https://raw.githubusercontent.com/starship/starship/master/media/demo.gif"
   alt="Starship with iTerm2 and the Snazzy theme"
   width="50%"
   align="right"
